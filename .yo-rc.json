@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-appinsights",
+    "libraryId": "4e199f04-8db6-494d-9d15-fc9c0aa9b0e4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-appinsights",
+    "solutionShortDescription": "spfx-appinsights description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
